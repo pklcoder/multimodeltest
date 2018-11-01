@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commonutils/commonutils.iml" filepath="$PROJECT_DIR$/commonutils/commonutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promanager/managermapper/managermapper.iml" filepath="$PROJECT_DIR$/promanager/managermapper/managermapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promanager/managerpojo/managerpojo.iml" filepath="$PROJECT_DIR$/promanager/managerpojo/managerpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promanager/managerservice/managerservice.iml" filepath="$PROJECT_DIR$/promanager/managerservice/managerservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promanager/managerweb/managerweb.iml" filepath="$PROJECT_DIR$/promanager/managerweb/managerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/promanager/promanager.iml" filepath="$PROJECT_DIR$/promanager/promanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tobemaster/tobemaster.iml" filepath="$PROJECT_DIR$/tobemaster/tobemaster.iml" />
+    </modules>
+  </component>
+</project>
